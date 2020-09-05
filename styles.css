@@ -35,7 +35,7 @@ body{
 #mid-section {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    background-image: url("https://images.unsplash.com/photo-1516828848398-e04c82e9205a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=753&q=80");
+    
 }
 #mid-section p, #skills .divider{
     margin: 5rem 0 3.75rem 0;
